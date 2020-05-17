@@ -11,8 +11,8 @@
     ios_banner:
       banner: login
       text: |
-        Nicolas Cage is the
-        Tiger King
+        This is CTPIS private network.
+        Please leave immediately if you are not authorized personal.
       state: present
 
   - name: Add loopback
